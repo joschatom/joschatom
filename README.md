@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Firedos
 - 🌱 I’m currently learning how to create a operating system.
-- 🤔 I’m looking for help with Git CLI.
+- 🤔 I’m looking for help with creating an os!
 - 💬 Ask me about starting with git.
 - 📫 How to reach me: joscha.egloff@pm.me
 - 😄 Pronouns: he/hinm
