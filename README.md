@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joschatom" alt="joschatom" /></a> </p>
 
-- 🔭 I’m currently working on **Multiple Projects**
+- 🔭 I’m currently working on **AntOS**, **Codeinteract**, a **Physics Engine** and more.
 
-- 🌱 I’m currently learning **Shuttle.rs, Zig**
+- 🌱 I’m currently learning more about unsafe Rust.
 
 - 👨‍💻 All of my projects are available at [https://proton-dev.net](https://proton-dev.net)
 
-- 💬 Ask me about **C#,C/C++,Python and**
+- 💬 Ask me about **C#, C/C++, Python and Rust**
 
 - 📫 How to reach me **joscha.egloff@pm.me**
 
