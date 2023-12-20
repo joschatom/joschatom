@@ -15,8 +15,5 @@
 
 - 📫 How to reach me **joscha.egloff@pm.me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joschatom&show_icons=true&locale=en" alt="joschatom" /></p>
