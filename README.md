@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joschatom" alt="joschatom" /></a> </p>
 
-- 🔭 I’m currently working on **AntOS**, **Codeinteract**, a **Physics Engine** and more.
+- 🔭 I’m currently working on **AntOS**, **Flake Programming Language**, a **Physics Engine** and more.
 
 - 🌱 I’m currently learning more about unsafe Rust.
 
