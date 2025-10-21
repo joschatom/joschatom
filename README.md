@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning more about unsafe Rust.
 
-- 👨‍💻 All of my projects are available at [https://proton-dev.net](https://proton-dev.net)
 
 - 💬 Ask me about **C#, C/C++, Python and Rust**
 
