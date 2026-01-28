@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joschatom" alt="joschatom" /></a> </p>
 
-- 🔭 I’m currently working on **AntOS**, **Flake Programming Language**, a **Physics Engine** and more.
+- I’m currently working on **AntOS**, **Flake Programming Language**, a **Physics Engine** and more.
 
-- 🌱 I’m currently learning more about unsafe Rust.
+- I’m currently learning os-dev with **Zig**.
 
+- Ask me about **C#, C/C++, Python, Zig and Rust**
 
-- 💬 Ask me about **C#, C/C++, Python and Rust**
+- How to reach me **joscha.egloff@pm.me**
 
-- 📫 How to reach me **joscha.egloff@pm.me**
+- Currently I'm also doing an practical year at Autismuslink.
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joschatom&show_icons=true&locale=en" alt="joschatom" /></p>
