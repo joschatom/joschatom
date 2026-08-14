@@ -13,8 +13,6 @@
 
 - How to reach me **joscha.egloff@pm.me**
 
-- Currently I'm also doing an practical year at Autismuslink.
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joschatom&show_icons=true&locale=en" alt="joschatom" /></p>
