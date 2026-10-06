@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joschatom" alt="joschatom" /></a> </p>
 
-- I’m currently working on **AntOS**, **Flake Programming Language**, a **Physics Engine** and more.
+- I’m currently working on various projects such as AntOS.
 
-- I’m currently learning os-dev with **Zig**.
+- I’m currently getting a professional education.
 
 - Ask me about **C#, C/C++, Python, Zig and Rust**
 
-- How to reach me **joscha.egloff@pm.me**
+- How to reach me **joscha.egloff@proton.me**
 
 
 
